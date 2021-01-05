@@ -189,3 +189,20 @@ button{
     background-image: url('./img/googleplay-button.png');
 }
 
+@media (max-width: 950px){
+    .instagram-wrapper{
+        width: 90vw;
+    }
+
+    .instagram-phone{
+        display: none;
+    }
+
+    .group{
+        width: 60vw;
+    }
+
+    .download{
+        width: 100%;
+    }
+}
